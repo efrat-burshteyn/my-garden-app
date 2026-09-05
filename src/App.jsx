@@ -12,6 +12,8 @@ import {Flower} from './flower/flower'
     <div>
       <Header />
       <Flower nameFlower="טוליפ" petalColor="pink" centerColor="red"/>
+      
+      <Flower nameFlower="טוליפ"/>
     </div>
   )
 }
